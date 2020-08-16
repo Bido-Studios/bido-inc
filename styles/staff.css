@@ -84,7 +84,10 @@ img.logo{
 
     .sviluppatori span, .doppiatori span{
         margin-left: 2%;
-        margin-top: 2%;
+    }
+
+    .sviluppatori span:hover, .doppiatori span:hover{
+        color: rgb(0, 68, 255);
     }
 
     .sviluppatori h1, .sviluppatori img, .doppiatori h1, .doppiatori img{

@@ -79,11 +79,13 @@ img.logo{
     }
 
     .sviluppatori ul li, .doppiatori ul li{
+        display: flex;
         list-style: none;
     }
 
     .sviluppatori span, .doppiatori span{
         margin-left: 2%;
+        margin-top: 3.6%;
     }
 
     .sviluppatori span:hover, .doppiatori span:hover{
